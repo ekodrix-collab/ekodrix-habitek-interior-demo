@@ -93,7 +93,7 @@ export function Footer() {
               © {new Date().getFullYear()} Habitek Interiors & Realty. All rights reserved.
             </p>
             <p className="text-xs text-gray-500 bg-white/5 px-4 py-2 rounded-full">
-              🚧 This is a <span className="text-brand-400 font-medium">demo website</span> — built for showcasing purposes only.
+              🚧 This is a demo website — built for showcasing purposes only.
             </p>
           </div>
         </div>
